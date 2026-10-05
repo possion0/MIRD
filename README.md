@@ -162,16 +162,4 @@ python predict_phase4_end2end.py \
     --test_file ./MMSD2.0dataset/data/text_json_final/test.json
 ```
 
-## 🔗 Citation
 
-If you find this work useful, please cite:
-
-```bibtex
-@inproceedings{liu2026mird,
-  title     = {MIRD: Multimodal Implicit Reasoning Distillation for Efficient Sarcasm Detection},
-  author    = {Liu, Ruipeng and Yu, Tianyuan and Bai, Liang and Sun, Siyang and Xue, Junhua and Guo, Yanming},
-  booktitle = {Proceedings of the 34th ACM International Conference on Multimedia (MM '26)},
-  year      = {2026},
-  doi       = {10.1145/3767308.3835865}
-}
-```
